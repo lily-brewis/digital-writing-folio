@@ -10,7 +10,7 @@
 
 ### Questions 
 
-#### What types of writing do you do (ie fiction, nonfiction, poetry, ohter)? 
+#### What types of writing do you do (ie fiction, nonfiction, poetry, other)? 
 
 Potry and fiction make up the majority of my writing. Some classes have pushed me towards genres that are new to me and I have therefore dabbled in nonfiction 
 and screen writing, the latter of which I took a liking to and hope to continue. 
