@@ -14,13 +14,13 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
 
 - On Florian Cramer's 'Post-Digital Writing' 
 
- the definition of literary is restrictive because it favours 
+     the definition of literary is restrictive because it favours 
  
- a\ works where author attribution is discernable 
+     a\ works where author attribution is discernable 
  
- b\ fiction (& poetry) stand for literature as a whole 
+     b\ fiction (& poetry) stand for literature as a whole 
  
- c\ peer review validates publication 
+     c\ peer review validates publication 
 
 - Flores - authorial intention to make e-lit is not a precondition for a work to be defined as e-lit (can be made whether creatirs know e-lit as a concept or not) 
 
