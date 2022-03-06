@@ -38,4 +38,4 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
               
 - The Z-axis 
 
-An additional deimension for text display, behaviour & manipulation, presents interactive possibilities 
+  An additional deimension for text display, behaviour & manipulation, presents interactive possibilities 
