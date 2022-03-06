@@ -100,5 +100,13 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
  - Something I feel needs a few more readings, and some close readings too. Potential candidate for the case study week 4. 
 
 #### The Cape 
+
+- I enjoyed the contrast between the ultra-personal story of a one-time visit to Carpenter's grandmother, the sentimentality of not being taught to whistle as
+  being synonymous with distance/disconnection with family, and the use of impersonal images, black and white diagrams, topographical maps. Carpenter makes them 
+  his own in a way.
+- The pace was slow, but reflective and introspective rather than plodding or dragging on
+- Interesting that the authorial notes are at the end, it makes the second reading more informed, yet a totally different experience to the first. Discovering, 
+  in such a lax manner, that the place is real, but the characters, the relationships, the story, are all fiction, is something of a betrayal, but reminds me in
+  the best way possible, just how much power the author is able to exercise over the reader if they wish to. 
  
  
