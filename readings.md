@@ -49,9 +49,9 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
     "An essentail component (of e-lit) needs to be the artistic engagememnt of written language in digital media" 
     
  - Three generations of e-lit 
- - 1 Pre-web experimentation w\ electronic and digital media 
- - 2 Begins w\ the web in 1995 - present 
+ - 1. Pre-web experimentation w\ electronic and digital media 
+ - 2. Begins w\ the web in 1995 - present 
        consists of innovative works created w\ custom interfaces & forums, mostly published in the open web 
- - 3 2005 - present 
+ - 3. 2005 - present 
        Uses established platforms w\ massive user bases, ie., social media apps & networks, mobile & touchscreen devices, web & API services 
        (2nd and 3rd gen coexist) 
