@@ -73,3 +73,26 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
  what I thought was an increase in the level of complication and snobbery with each newer volume. I clicked on and then very soon clicked off many of the pieces 
  from volume three (2016). The simplicity of the first volume was more enjoyable, it seems playful and experimental rather than pretentious. Even just the layout
  of the page - hovering the mouse over each thumbnail to see the title/preview in the little window - the mid-2000s internet blue. I liked it. 
+ 
+ #### Carving In Possibilities - Deena Larsen
+ 
+ 'Mouse slowly to carve out your existence'
+ 
+ ##### What drew me to it?
+ 
+ The thumbnail - Michelangelo's David
+ 
+ ##### Thoughts 
+ 
+ - An interesting piece, although at times it does seem like disjointed phrases combined in a cool, somewhat visually awkward manner. Every reading is different 
+   and has different potential interpretations, largely based on the reader bringing their own knowledge, experiences and prejudices, what not, etc,. to the 
+   table. 
+ - The argument that questions the legitimacy of e-literature could be raised here. A pessimistic view could say that it is just words and phrases jumbled 
+   together on a computer interface and the reader/their reading is what makes it literature. 
+- A call back to the debate of authorial intent - who is the literature made for? For the author or the reader? If there is a story, or meaning (and of course 
+  there is meaning) it is not as clear as a narrative, a memoir, or a confessional poem that spoonfeeds it to the reader. There are themes, many times vague, 
+  but the reader supplies the meaning. 
+  
+  ####
+ 
+ 
