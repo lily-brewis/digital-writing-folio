@@ -1,2 +1,2 @@
-##Readings 
-###Week 1 Readings 
+# Readings 
+## Week 1 Readings 
