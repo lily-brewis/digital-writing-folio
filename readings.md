@@ -29,6 +29,7 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
 - e-lit began as a coterie- has become a scholarly field
 
 
+
 ### "Electronic Literature : What is it?' - N. Katherine Hayles 
 
 - Early works- 'blocks of text' - lexia (1st gen/'classic') 
@@ -36,4 +37,5 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
               - more graphics, colours, animation, sound  > (2nd gen/'contmeporary electronic lit') 
               
 - The Z-axis 
+
 An additional deimension for text display, behaviour & manipulation, presents interactive possibilities 
