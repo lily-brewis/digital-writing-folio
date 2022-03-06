@@ -68,7 +68,7 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
  because I find them easier to follow. Many of the pieces fill me with anxiety that I am missing content, not reading/following properly, or clicking one of two
  links, the second of which I will never see because I have gone down a different path. But maybe that is the intention of some of these authors. 
  
- Something that interested me was the percievable changes from volume to volume. The advancement of technological capability is an obvious observation to make,  
+ Something that interested me was the percievable changes from volume to volume. The advancement of technological capability is an obvious observation to make, 
  and so is the scope - with each volume featuring pieces in various different languages from a growing international pool of authors. On another note, I noticed
  what I thought was an increase in the level of complication and snobbery with each newer volume. I clicked on and then very soon clicked off many of the pieces 
  from volume three (2016). The simplicity of the first volume was more enjoyable, it seems playful and experimental rather than pretentious. Even just the layout
