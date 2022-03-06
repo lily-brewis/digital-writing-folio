@@ -57,4 +57,19 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
        (2nd and 3rd gen coexist) 
        
        
- ## Hello 
+ ## Week 2 Readings 
+ ### From the Electronic Literature Collection 
+ 
+ #### Overall Thoughts
+ 
+ The creativity and variety of craft and presentation takes my understanding/experience of writing to a new level. I appreciate the innovation and tech-savvy of
+ these creators - especially the nostalgic disappointment of opening a piece and not being able to read/interact with it due to the ancient 2006 file not being 
+ compatible with current software - but found myself drawn to the works that favour a more traditional or conventional approach, not because I'm boring, but 
+ because I find them easier to follow. Many of the pieces fill me with anxiety that I am missing content, not reading/following properly, or clicking one of two
+ links, the second of which I will never see because I have gone down a different path. But maybe that is the intention of some of these authors. 
+ 
+ Something that interested me was the percievable changes from volume to volume. The advancement of technological capability is an obvious observation to make,  
+ and so is the scope - with each volume featuring pieces in various different languages from a growing international pool of authors. On another note, I noticed
+ what I thought was an increase in the level of complication and snobbery with each newer volume. I clicked on and then very soon clicked off many of the pieces 
+ from volume three (2016). The simplicity of the first volume was more enjoyable, it seems playful and experimental rather than pretentious. Even just the layout
+ of the page - hovering the mouse over each thumbnail to see the title/preview in the little window - the mid-2000s internet blue. I liked it. 
