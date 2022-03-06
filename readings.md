@@ -18,8 +18,8 @@ a\ works where author attribution is discernable
 b\ fiction (& poetry) stand for literature as a whole 
 c\ peer review validates publication 
 
-Flores - authorial intention to make e-lit is not a precondition for a work to be defined as e-lit (can be made whether creatirs know e-lit as a concept or not) 
+- Flores - authorial intention to make e-lit is not a precondition for a work to be defined as e-lit (can be made whether creatirs know e-lit as a concept or not) 
 
-"Prestige is not just a reputation-enhancer, as it is in a coterie; reputation in a scholarly field earns financial and status rewards: speaking invitations, endowed proffessorships, research budgets, festschifts" 
+- "Prestige is not just a reputation-enhancer, as it is in a coterie; reputation in a scholarly field earns financial and status rewards: speaking invitations, endowed proffessorships, research budgets, festschifts" 
 
-e-lit began as a coterie- has become a scholarly field
+- e-lit began as a coterie- has become a scholarly field
