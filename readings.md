@@ -4,15 +4,15 @@
 
 ### "Decolonise" E-Literature? On Weeding the E-Lit Garden - Kathi Inman Berens 
 
-- [-] "Permaculture" - Gardens as 'self-sustaining' with no human involvement 
+- "Permaculture" - Gardens as 'self-sustaining' with no human involvement 
 'Permacultures opposite is a gardener removing pests & weeds 
 
-- [-] E-Lit
+- E-Lit
 'technotexts, non-trivial effort, high modernism'
 are they restricting access to content creators?
 could e-lit's 'permaculture' be made stronger through 'decolonisation'? 
 
-- [-] On Florian Cramer's 'Post-Digital Writing' 
+- On Florian Cramer's 'Post-Digital Writing' 
 the definition of literary is restrictive because it favours 
 a\ works where author attribution is discernable 
 b\ fiction (& poetry) stand for literature as a whole 
