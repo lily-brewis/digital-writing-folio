@@ -93,6 +93,12 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
   there is meaning) it is not as clear as a narrative, a memoir, or a confessional poem that spoonfeeds it to the reader. There are themes, many times vague, 
   but the reader supplies the meaning. 
   
-  ####
+  #### Twelve Blue - Michael Joyce 
+  
+ - I really enjoyed this piece, the narrative thread of each section and their linking via a central character/figure made it easy to follow and enjoyable to read
+ - Familiar poetic techniques - vivid imagery, sonic elements - alliteration, assonance, etc,. 
+ - Something I feel needs a few more readings, and some close readings too. Potential candidate for the case study week 4. 
+
+#### The Cape 
  
  
