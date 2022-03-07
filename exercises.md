@@ -44,3 +44,20 @@ Some attributes of the stand-alone or networked computer that contribute to elec
 colours, animation, audio, coding and programming, interactivity, and a host of other qualitites, many of which are exclusive to literature created 
 electronically. 
 
+## Taroko Gorge Remixes 
+[Gorge](https://nickm.com/taroko_gorge/gorge/)
+
+### What aspects of the remix are the same? 
+
+JR Carpenter's remix of Taroko Gorge drops the 'Taroko' and is simply titled "Gorge" while keeping the same structure of ceaseless lines that are vague yet rich
+in description and specificity, and invogorate all of the senses to create a never ending poem.
+
+### What aspects of the remix are different? 
+
+The remix is no longer based on location, in fact it abandons the locality of Taroko Gorge altogether. It is much more localised to the human body, describing the 
+practice of eating in abstract yet graphic detail. 
+
+### Is the remix successful (why or why not)? 
+
+In some ways it is. The poetry, line by line seems to make sense and is engaging (for some time) to read, yet the work overall loses the sense of continuation 
+that is evoked by descriptions of Taroko Gorge, particularly a body of water that is unrelenting, and flows forever the same way the poem does. 
