@@ -45,7 +45,8 @@ colours, animation, audio, coding and programming, interactivity, and a host of 
 electronically. 
 
 ## Taroko Gorge Remixes 
-Camel Tail (https://nickm.com/taroko_gorge/camel_tail/)
+[Camel Tail](https://nickm.com/taroko_gorge/camel_tail/)
+
 Sonny Rae Tempest 
 
 ### Is the remix successful (why or why not)? 
