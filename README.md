@@ -2,4 +2,3 @@
 
 - [Readings](readings.md)
 - [Exercises](exercises.md) 
-- 
