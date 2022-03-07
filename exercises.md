@@ -40,6 +40,7 @@ digitalisation. The intent, the execution, reception and qualitites have their d
 The Electronic Literature Organisation (ELO) defines electronic literature as works with important literary aspects that take advantage of the capabilities
 and contexts provided by the stand-alone or networked computer.' 
 
-Some attributes of the stand-alone or networked computer that contribute to electronic literature's identity are features like graphics and images, colours, 
-animation, audio, coding and programming, interactivity, and a host of other qualitites, many of which are exclusive to literature created electronically. 
+Some attributes of the stand-alone or networked computer that contribute to electronic literature's identity are features like graphics and images, formatting,
+colours, animation, audio, coding and programming, interactivity, and a host of other qualitites, many of which are exclusive to literature created 
+electronically. 
 
