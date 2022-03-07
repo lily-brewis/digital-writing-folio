@@ -26,3 +26,14 @@ because I know anything I write I am unlikely to touch, edit, or do anyhting wit
 They largely dictate my intentions with each individual piece that I write. Technology facilitates my writiting in that it allows me to make an endless amount 
 of mistakes, edits and additions to a piece, and also enables me to save or recall past versions of a piece of work. On the other hand, working without the aid of 
 technology creates something of a snapshot in time of my work and my creative proccess that I sometimes enjoy. 
+
+## Week 2 
+
+### How is electronic literature different from print literature?
+
+The first answer that comes to mind is a fairly obvious one - one is print based and on is electronic based. The methods of creating these types of literature
+differ, with print literature exisiting as something that can be made with or without digital facilitation, and electronic literature relying on and utilising 
+digitalisation. The intent, the execution, reception and qualitites have their differences too. 
+
+### What are some of the qualities of electronic literature? 
+
