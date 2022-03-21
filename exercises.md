@@ -57,3 +57,9 @@ and themes are completely seperate from its source piece, with the unexpected pr
 For me personally, this is not the most successful of remixes, maybe it would be to Metallica fans, and certainly to the author. The content is fairly incoherent
 after a while, suggesting a smaller base of words suits this style more. Visually, it is not as successful as Taroko Gorge; the plain black and white page, the 
 basic font, and the large chunks of text are not as appealing, and make engagement with the piece more difficult. 
+
+## Week 4 
+
+### We Walk to You Remix 
+
+[only in a dream](https://meowing-smiling-dragonfly.glitch.me)
