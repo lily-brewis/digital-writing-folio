@@ -109,4 +109,28 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
   in such a lax manner, that the place is real, but the characters, the relationships, the story, are all fiction, is something of a betrayal, but reminds me in
   the best way possible, just how much power the author is able to exercise over the reader if they wish to. 
  
+ ## Week 5 
  
+### Hypertext FIction Ever After - James O'Sullivan 
+
+The term hypertext - coined by Theodor Holm in the 60's 
+- refers to possibilities of 'non-sequential writing' made possible by digital storage and retrieval 
+- intertextual reference automated by computable code that instantly combines one document with another
+
+Hypertext fic. as a byproduct of the world wide web (proposed 1990) 
+
+Some precursors to hypertext fic. - postmodernist print fiction, early nonfiction hypertexts, Apple's 'HperCord', ELO's collections (2006, 2011, 2016)
+
+Hypertext transcends/manifests in cinema 
+
+From Goldsmith - hypertext fic. as 'the new illegibility'
+- texts that defy mere personal consumption because they belong to the regime of computers, networks and distributed intelligence 
+
+Has been suggested that hyperext fiction is written mainly for writers of hyper text fiction, or even belongs to a post-human aesthetic
+
+Twine - an open source tool for telling interactive, nonlinear stories 
+- created in 2009 by Chris Klimas 
+- credited wiht keeping the hypertext fic. genre alive 
+
+Twine ≠ hypertext fiction 
+Twine writers are less interested in high-cultural approbation, better adapted to social media, etc. 
