@@ -133,4 +133,5 @@ Twine - an open source tool for telling interactive, nonlinear stories
 - credited wiht keeping the hypertext fic. genre alive 
 
 Twine ≠ hypertext fiction 
+
 Twine writers are less interested in high-cultural approbation, better adapted to social media, etc. 
