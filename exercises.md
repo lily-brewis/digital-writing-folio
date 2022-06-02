@@ -73,3 +73,17 @@ togther by common denominators 'whisper', 'walk', 'float', 'drift' that link the
 
 Although I feel like I only scratched the surface with this one, glitch was easy enough to use and poses a possibility for my creative project, which
 is still in the very, extremely early stages of a pre-brainstorm. 
+
+##Making a dadaist poem 
+My attempt at a [dadaist poem](https://glitch.com/~chatter-dolomite-expansion) made with glitch 
+
+This was an amusing endeavour, and while the peom produced never really makes any sense, they are always a few good lines. 
+
+"Swan Hill sludge//rolled"
+"dust dust mud"
+"a sunday dust//storm"
+
+I chose an article reporting on a dust storm in Swan Hill, and while the weather gives a poetic quality, I would be interested to remake this with 
+a piece that has more prominent key words or potential for humour. Some of the capitalisation and stray punctuation are slightly distracting also. 
+After playing around with the word count per line, and generating what felt like a hundred new poems, it's clear how much you can do with one lousy
+weather article.
