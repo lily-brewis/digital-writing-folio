@@ -88,3 +88,18 @@ I chose an article reporting on a dust storm in Swan Hill, and while the weather
 a piece that has more prominent key words or potential for humour. Some of the capitalisation and stray punctuation are slightly distracting also. 
 After playing around with the word count per line, and generating what felt like a hundred new poems, it's clear how much you can do with one lousy
 weather article.
+
+## Twine time 
+
+My first [twine](https://main--thisisyourlife.netlify.app) 
+
+Of all the different platforms I have tried this class, twine has been my favourite so far. It seems relatively user friendly and offers a massive
+scope for creativity (something to consider for the creative project, which seems to be where the majority of the class is headed.) 
+
+This first foray into twine, titled 'this is your life' is vaguely autobiographical, operating on the axis of time, using the choice funtion to move
+forward or backward in the life of the reader (who is also the speaker, given the use of second person.) I usually stay away from second person, as it 
+comes across as cheesy and is notoriously hard to pull off, but the nature of twine suits it, as it reads, or plays, like a game. 
+
+My struggle with adding images and audio was slightly embarassing, but I think spending some more time at home familiarising myself with twine, and 
+consulting the cookbook would be valuable. I'm not sure how much future potential this particular piece has (thinking in terms of submission) but 
+I might make it my little guinea pig for experimenting with. 
