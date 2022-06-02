@@ -136,7 +136,7 @@ Twine ≠ hypertext fiction
 
 Twine writers are less interested in high-cultural approbation, better adapted to social media, etc. 
 
-##Week 9 
+## Week 9 
 
 ### Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique - Ryan Ikeda 
 
