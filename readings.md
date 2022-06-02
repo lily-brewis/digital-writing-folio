@@ -135,3 +135,28 @@ Twine - an open source tool for telling interactive, nonlinear stories
 Twine ≠ hypertext fiction 
 
 Twine writers are less interested in high-cultural approbation, better adapted to social media, etc. 
+
+##Week 9 
+
+### Excavating Logics of White Supremacy in Electronic Literature: Antiracism as Infrastructural Critique - Ryan Ikeda 
+
+"Racialisation is not erased by technology, but embedded in its imfrastructure and instantiated culturally through its uses."
+
+- Algorithms tend to reflect the values of the tech industry
+- Misrepresentation at a corporate level is reflected in search engines
+- Computers are not colourblind - as they are believed to be in a popular 'postracial' fantasy 
+
+Equity > equality 
+
+"Discussions of equity, antiracism, and white supremacy must also make white people feel good about their structural advantages and privileges, or at
+least, not to feel racist."
+
+- Discussions/action are only likely to take place as long as the major stakeholders (ie. white people) who also happen to be the major oppressors/
+  instigators, do not feel threatened, demonised, attacked, or ultimately, held accountable.
+- There is likely a relectance to take action, because the problem would have to be acknowledeged, and then responsibility/accountability be claimed.
+- Big corporations are unlikley to do this - bad for buisness (loss of money, damage to image), the same way sites such as google or chrome filter 
+  search results so nothing damaging about them shows up. 
+  
+ "in the context of antiracism, the stakes and stakeholders who participate and benefit from collaboration are often unexcavated premises, asumed to 
+ be equitable and without any accountability." 
+
