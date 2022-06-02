@@ -58,8 +58,18 @@ For me personally, this is not the most successful of remixes, maybe it would be
 after a while, suggesting a smaller base of words suits this style more. Visually, it is not as successful as Taroko Gorge; the plain black and white page, the 
 basic font, and the large chunks of text are not as appealing, and make engagement with the piece more difficult. 
 
-## Week 4 
+## My own remix 
 
 ### We Walk to You Remix 
 
 [only in a dream](https://meowing-smiling-dragonfly.glitch.me)
+
+I think I am more impressed with the fact that completing this was something I could actually do than I am with the finished product. I might play
+around with it later.
+
+'Only in a Dream' attmepts to stay true to its title, with the whimsical font and disjointed yet connected phrases giving something of a dream like
+quality. An unintentional oceanic vibe is also eminent, with the blue background and stanzas rolling in like waves of barely coherent words strung 
+togther by common denominators 'whisper', 'walk', 'float', 'drift' that link the speaker and the unidentified subject. 
+
+Although I feel like I only scratched the surface with this one, glitch was easy enough to use and poses a possibility for my creative project, which
+is still in the very, extremely early stages of a pre-brainstorm. 
