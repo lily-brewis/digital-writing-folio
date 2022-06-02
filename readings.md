@@ -22,7 +22,7 @@ could e-lit's 'permaculture' be made stronger through 'decolonisation'?
  
      c\ peer review validates publication 
 
-- Flores - authorial intention to make e-lit is not a precondition for a work to be defined as e-lit (can be made whether creatirs know e-lit as a concept or not) 
+- Flores - authorial intention to make e-lit is not a precondition for a work to be defined as e-lit (can be made whether creators know e-lit as a concept or not) 
 
 - "Prestige is not just a reputation-enhancer, as it is in a coterie; reputation in a scholarly field earns financial and status rewards: speaking invitations, endowed proffessorships, research budgets, festschifts" 
 
@@ -153,7 +153,7 @@ least, not to feel racist."
 
 - Discussions/action are only likely to take place as long as the major stakeholders (ie. white people) who also happen to be the major oppressors/
   instigators, do not feel threatened, demonised, attacked, or ultimately, held accountable.
-- There is likely a relectance to take action, because the problem would have to be acknowledeged, and then responsibility/accountability be claimed.
+- There is likely a reluctance to take action, because the problem would have to be acknowledeged, and then responsibility/accountability be claimed.
 - Big corporations are unlikley to do this - bad for buisness (loss of money, damage to image), the same way sites such as google or chrome filter 
   search results so nothing damaging about them shows up. 
   
