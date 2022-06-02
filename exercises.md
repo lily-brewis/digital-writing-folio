@@ -74,7 +74,8 @@ togther by common denominators 'whisper', 'walk', 'float', 'drift' that link the
 Although I feel like I only scratched the surface with this one, glitch was easy enough to use and poses a possibility for my creative project, which
 is still in the very, extremely early stages of a pre-brainstorm. 
 
-##Making a dadaist poem 
+## Making a dadaist poem 
+
 My attempt at a [dadaist poem](https://glitch.com/~chatter-dolomite-expansion) made with glitch 
 
 This was an amusing endeavour, and while the peom produced never really makes any sense, they are always a few good lines. 
